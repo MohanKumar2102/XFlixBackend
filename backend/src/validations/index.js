@@ -1,0 +1,1 @@
+module.exports.videoValidate = require("./video.validation");
